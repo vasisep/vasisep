@@ -5,4 +5,4 @@
 - 📫 How to reach me ... On ISEP @ the Labs class.
 - ⚡ Fun fact: I'll teach you how to work with GIT on the first semester and Transact SQL on the second semester...
 
-LinkedIn: <a href="https://www.linkedin.com/in/pedrosamvasconcelos/" target="_blanc">@pedrosamvasconcelos</a>
+LinkedIn: <a href="https://www.linkedin.com/in/pedrosamvasconcelos/" target="_blanc">pedrosamvasconcelos</a>
